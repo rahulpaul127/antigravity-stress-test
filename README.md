@@ -38,6 +38,9 @@ The goal was simple but rigorous:
 ### Portfolio Grid (Local Assets)
 ![Portfolio Grid](public/images/readme/portfolio-preview.png)
 
+### Accessibility Verification (0 Issues)
+![Axe DevTools Report](public/images/readme/accessibility-check.webp)
+
 ## How It Was Built
 
 I treated the AI as a junior developer that needed strict guidance. I didn't just say "make a site." I prompted for specific architectural patterns, accessibility constraints, and design tokens.
