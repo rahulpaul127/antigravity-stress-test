@@ -39,7 +39,7 @@ The goal was simple but rigorous:
 ![Portfolio Grid](public/images/readme/portfolio-preview.png)
 
 ### Accessibility Verification (0 Issues)
-![Axe DevTools Report](public/images/readme/accessibility-check.webp)
+![Axe DevTools Report](public/images/readme/accessibility-check.png)
 
 ## How It Was Built
 
