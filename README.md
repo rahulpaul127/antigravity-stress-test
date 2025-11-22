@@ -26,6 +26,14 @@ The goal was simple but rigorous:
 -   **Client Testimonials:** A functional carousel with optimized image loading.
 -   **Theme Support:** Robust light/dark mode toggling.
 
+## Screenshots
+
+### Hero Section (Animated Code UI)
+![Hero Section](public/images/readme/hero-preview.png)
+
+### Portfolio Grid (Local Assets)
+![Portfolio Grid](public/images/readme/portfolio-preview.png)
+
 ## How It Was Built
 
 I treated the AI as a junior developer that needed strict guidance. I didn't just say "make a site." I prompted for specific architectural patterns, accessibility constraints, and design tokens.
@@ -50,4 +58,4 @@ When the AI failed (e.g., broken image URLs, missing `sizes` props), I didn't fi
 
 ---
 
-*Built by [Your Name] using Antigravity.*
+*Built by [Rahul Paul] using Antigravity.*
