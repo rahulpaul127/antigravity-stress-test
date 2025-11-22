@@ -26,6 +26,10 @@ The goal was simple but rigorous:
 -   **Client Testimonials:** A functional carousel with optimized image loading.
 -   **Theme Support:** Robust light/dark mode toggling.
 
+## Live Demo
+
+![Site Walkthrough](public/images/readme/demo.webp)
+
 ## Screenshots
 
 ### Hero Section (Animated Code UI)
